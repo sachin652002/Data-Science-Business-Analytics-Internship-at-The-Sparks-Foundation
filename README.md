@@ -5,4 +5,4 @@ Problem Statement: Predict the percentage of an student based on the no. of stud
 
 Assisment 1 Dataset: http://bit.ly/w-data
 
-Assisment 1 Dataset: https://bit.ly/3kXTdox
+Assisment 2 Dataset: https://bit.ly/3kXTdox
